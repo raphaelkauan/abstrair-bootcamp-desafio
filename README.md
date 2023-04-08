@@ -14,8 +14,8 @@
     <td>   
         <img height="150em" src="https://cdn.midjourney.com/b1cc34bf-28db-47d3-91d4-177fdca62d80/grid_0.png"/>
     </td>
-    <td>      
-        <td> <img height="150em" src="https://cdn.midjourney.com/b4d17a31-a19c-426a-9555-8b255bbf621c/grid_0.png"/>
+    <td>     
+        <img height="155em" src="https://img.icons8.com/fluency/256/object.png"/>
     </td>
      <td>      
         <img height="150em" src="https://cdn.midjourney.com/8a21e7c2-127f-4edb-88e7-f8d89bd36be5/grid_0.png"/>
