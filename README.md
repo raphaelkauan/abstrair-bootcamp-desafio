@@ -66,4 +66,4 @@ Polimorfismo é como se fosse uma brincadeira de trocar de roupa. Sabe quando vo
 
 ---
 
-##### Em resumo o paradigma de programação orientada a objetos se baseia em criar objetos com suas próprias características e ações, e combiná-los para criar programas complexos. Isso torna a programação mais organizada e fácil de se entender permitindo uma maior expressividade na representação de conceitos e estruturas complexas.
+##### Em resumo o paradigma de programação orientada a objetos se baseia em criar objetos com suas próprias características e ações, e combiná-los para criar programas complexos. Isso torna a programação mais organizada e fácil de se entender, permitindo uma maior expressividade na representação de conceitos e estruturas complexas.
