@@ -15,7 +15,7 @@
         <img height="150em" src="https://cdn.midjourney.com/b1cc34bf-28db-47d3-91d4-177fdca62d80/grid_0.png"/>
     </td>
     <td>     
-        <img height="150em" src="https://img.icons8.com/fluency/256/object.png"/>
+        <img height="150em" src="https://cdn.midjourney.com/b4d17a31-a19c-426a-9555-8b255bbf621c/grid_0.png"/>
     </td>
      <td>      
         <img height="150em" src="https://cdn.midjourney.com/8a21e7c2-127f-4edb-88e7-f8d89bd36be5/grid_0.png"/>
@@ -26,11 +26,11 @@
 
 ---
 
-<h2> 🎲 Paradigma de Programação Orientado a Objetos (PARA UMA CRIANÇA ENTENDER) <img height="20em" src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/256/external-duck-farming-victoruler-linear-colour-victoruler.png"/>
+<h2> 🎲 Paradigmas de programação orientado a objetos (PARA UMA CRIANÇA ENTENDER) <img height="20em" src="https://img.icons8.com/3d-fluency/256/claw-machine.png"/>
 </h2>
 
 <p>
-Paradigma de Programação Orientada a Objetos é um jeito de escrever programas de computador que se baseia na ideia de objetos. Pense em um objeto na vida real, como um brinquedo, por exemplo. Esse brinquedo tem algumas características que o tornam diferente de outros brinquedos, como sua cor, tamanho e forma. Ele também pode fazer algumas coisas, como emitir som ou se mover.
+Programação Orientada a Objetos é um jeito de escrever programas de computador que se baseia na ideia de objetos. Pense em um objeto na vida real, como um brinquedo, por exemplo. Esse brinquedo tem algumas características que o tornam diferente de outros brinquedos, como sua cor, tamanho e forma. Ele também pode fazer algumas coisas, como emitir som ou se mover.
 
 Na programação orientada a objetos, criamos objetos como esses para representar coisas do mundo real no computador. Cada objeto tem suas próprias características (chamadas de atributos) e ações que ele pode realizar (chamadas de métodos).
 
