@@ -26,7 +26,7 @@
 
 ---
 
-<h2> 🎲 Paradigmas de programação orientado a objetos (PARA UMA CRIANÇA ENTENDER) <img height="20em" src="https://img.icons8.com/3d-fluency/256/claw-machine.png"/>
+<h2> 🎲 Paradigmas de programação orientada a objetos (PARA UMA CRIANÇA ENTENDER) <img height="20em" src="https://img.icons8.com/external-smashingstocks-outline-color-smashing-stocks/256/external-Duckling-seasons-smashingstocks-outline-color-smashing-stocks.png"/>
 </h2>
 
 <p>
