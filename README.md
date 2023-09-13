@@ -15,7 +15,7 @@
         <img height="150em" src="https://github.com/raphaelkauan/AbstrairBootcamp-Desafio/assets/111379005/7621ee63-f957-4d11-bef1-3247a943865d"/>
     </td>
     <td>     
-        <img height="150em" src="https://cdn.midjourney.com/b4d17a31-a19c-426a-9555-8b255bbf621c/grid_0.png"/>
+        <img height="150em" src="https://github.com/raphaelkauan/AbstrairBootcamp-Desafio/assets/111379005/15c399ec-5246-4f72-8ae5-589166385f09"/>
     </td>
      <td>      
         <img height="150em" src="https://cdn.midjourney.com/8a21e7c2-127f-4edb-88e7-f8d89bd36be5/grid_0.png"/>
