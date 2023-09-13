@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td>   
-        <img height="150em" src="https://cdn.midjourney.com/b1cc34bf-28db-47d3-91d4-177fdca62d80/grid_0.png"/>
+        <img height="150em" src="https://github.com/raphaelkauan/AbstrairBootcamp-Desafio/assets/111379005/7621ee63-f957-4d11-bef1-3247a943865d"/>
     </td>
     <td>     
         <img height="150em" src="https://cdn.midjourney.com/b4d17a31-a19c-426a-9555-8b255bbf621c/grid_0.png"/>
